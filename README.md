@@ -79,7 +79,7 @@ A 1-page summary report is provided covering:
 - Predictions
 - Recommendations
 
-Available as a downloadable PDF.
+Available as a downloadable word document titled AI for Sustainable Development summary.
 
 ---
 
