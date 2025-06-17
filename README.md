@@ -50,7 +50,7 @@ This project supports **Sustainable Development Goal 3 (SDG 3): Good Health and 
 ## 🧠 How to Use
 
 1. Clone or download the notebook.
-2. Open `sdg3_prediction.ipynb` in Jupyter or VS Code.
+2. Open `sdg3_prediction_step2_added.ipynb` in Jupyter or VS Code.
 3. Run the cells sequentially:
    - Load and clean the datasets
    - Train the model
@@ -79,7 +79,7 @@ A 1-page summary report is provided covering:
 - Predictions
 - Recommendations
 
-Available as a downloadable word document titled AI for Sustainable Development summary.
+Available as a downloadable word document titled AI for Sustainable Development summary.docx.
 
 ---
 
@@ -99,10 +99,15 @@ Forecasting immunization coverage:
 
 ---
 
-## ✍️ Author
+## ✍️ Project Team
 
-**Mark Wainaina Iraya**  
-Doctor of Medicine | Software Engineer-in-Training  
+**Mark** 
+**Pedzisai**
+**Billy**
+**Enock**
+**Charles**
+
+ Software Engineers-in-Training  
 *PLP Academy 2025 – AI for Sustainable Development*
 
 ---
